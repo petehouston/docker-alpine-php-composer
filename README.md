@@ -1,5 +1,9 @@
 # Docker Alpine PHP with Composer
 
+[![](https://imagelayers.io/badge/petehouston/docker-alpine-php-composer:latest.svg)](https://imagelayers.io/?images=petehouston/docker-alpine-php-composer:latest 'Get your own badge on imagelayers.io')
+
+[![nodesource/node](http://dockeri.co/image/petehouston/docker-alpine-php-composer)](https://registry.hub.docker.com/u/petehouston/docker-alpine-php-composer/)
+
 A very small Docker image to bootstrap your PHP development.
 
 This Docker image is based on [petehouston/docker-alpine-php](https://github.com/petehouston/docker-alpine-php) but with [Composer](getcomposer.org) supported.
