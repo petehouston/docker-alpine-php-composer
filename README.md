@@ -12,7 +12,8 @@ This Docker image is based on [petehouston/docker-alpine-php](https://github.com
 
 Following PHP versions are supported,
 
-* [tag:7.0](src/7.0/Dockerfile) - latest (7.0.6)
+* [tag:7.4](src/7.4/Dockerfile) - latest (7.4.24)
+* [tag:7.0](src/7.0/Dockerfile) (7.0.6)
 * [tag:5.6](src/5.6/Dockerfile) (5.6.21)
 * [tag:5.5](src/5.5/Dockerfile) (5.5.35)
 
